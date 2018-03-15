@@ -1,14 +1,17 @@
-{  
-   "name":"ClubSelectionError",
-   "stack":"Error ...",
-   "clubs":[  
-      {  
-         "id":2,
-         "name":"TV Kopenhagen"
-      },
-      {  
-         "id":1,
-         "name":"TV Hinterdupfing"
-      }
-   ]
-}
+{"events":[
+        {
+          "id":1,
+          "name":"Ausfahrt am Donnerstag",
+          "date": "15.03.2018",
+          "description": "Unsere Donnerstags Ausfahrt war sehr anstrengend.",
+          "imgSrc": "../../assets/img/route.gif"
+        },
+        {
+          "id":1,
+          "name":"Ausfahrt am Donnerstag",
+          "date": "15.03.2018",
+          "description": "Unsere Donnerstags Ausfahrt war sehr anstrengend.",
+          "imgSrc": "../../assets/img/route.gif"
+        }
+      ]
+    };
